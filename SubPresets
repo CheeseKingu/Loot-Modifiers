@@ -1,0 +1,52 @@
+{
+	"Subpresets": [
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_AWP_Vault_Pack"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_AWP_Ammo_Vault_Pack"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_AWM_Vault_Pack"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_AWM_Ammo_Vault_Pack"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_M82A1_Vault_Pack"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_M82A1_Ammo_Vault_Pack"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_SVD_Vault_Pack"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_SVD_Ammo_Vault_Pack"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_M249_Vault_Pack"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_M249_Ammo_Vault_Pack"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_RPK_Vault_Pack"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_RPK_Ammo_Vault_Pack"
+		}
+	]
+}
