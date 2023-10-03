@@ -1,0 +1,24 @@
+{
+	"Modifiers": [
+		{
+			"Zones": [
+				{
+					"Name": "FishFactory",
+					"TopLeft": "X=-327211.8142 Y=-346843.5702",
+					"BottomRight": "X=-363868.8911 Y=-383500.647"
+				}
+			],
+			"SpawnerProbabilityMultiplier": 100,
+			"ExamineSpawnerProbabilityMultiplier": 100,
+			"ExamineSpawnerQuantityMultiplier": 5
+		},
+		{
+			"Zones": [
+				{
+					"Sector": "A1"
+				}
+			],
+			"ExamineSpawnerQuantityMultiplier": 5
+		}
+	]
+}
