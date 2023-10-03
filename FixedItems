@@ -1,7 +1,8 @@
 {
-	
 	"FixedItems": [
-		"Stone_Small"
+		"Weapon_M82A1",
+                "Weapon_MK18",
+                "2H_Katana"
 	],
 	"QuantityMin": 1,
 	"QuantityMax": 2,
