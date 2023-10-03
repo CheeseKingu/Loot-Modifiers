@@ -7,6 +7,10 @@
 		{
 			"Rarity": "Common",
 			"Id": "1H_Hatchet"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "2H_Katana"
 		}
      	],
         "Probability": 20,
