@@ -1,0 +1,742 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Rarity": "Uncommon",
+	"Children": [
+		{
+			"Name": "Bathroom",
+			"Rarity": "Uncommon",
+			"Children": [
+				{
+					"Name": "Clothes",
+					"Rarity": "Common",
+					"Children": [
+						{
+							"Name": "Feet",
+							"Rarity": "VeryRare",
+							"Children": [
+								{
+									"Name": "Shoes",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "HighTop_Shoes",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Sneakers_02_01",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "Slippers",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Christmas_Slippers",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Slippers_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Slippers_03",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Socks",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Sock_01",
+											"Rarity": "Rare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Hands",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "DrivingGloves",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "Driving_Gloves_01_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "RubberGloves",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Electrician_Glove_01_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "WoolGloves",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "Wool_Gloves_01_01",
+											"Rarity": "Rare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Head",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Caps",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Baseball_Cap_11",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Baseball_Cap_12",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Baseball_Cap_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Hats",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Beenie_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Boonie_Hat_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Other",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Pirate_Hat_01",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Pirate_Hat_Sparrow_02",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "RH_Bycoket_01",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Santa_Hat_01",
+											"Rarity": "VeryRare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Legs",
+							"Rarity": "Common",
+							"Children": [
+								{
+									"Name": "HippiePants",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Hippie_Pants_01",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "Kilts",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Kilt_01",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "MotorcyclePants",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Motorcycle_Pants_01",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Pants",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Construction_Pants_01",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Jeans_01_01",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Jeans_02_01_V2",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Pajama_Pants",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Working_pants_01_01",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "ShortPants",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Short_Trousers_01_01",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Shorts",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Sexy_Jeans_Shorts_01",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Shorts_Pants_01_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "SweatPants",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Tracksuit_Pants_01_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Tights",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Tights_01_01",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Underwear",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Pantyhose_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "PenisWarmer_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Underpants_01",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "WorkPants",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Working_pants_01_01",
+											"Rarity": "Rare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Neck",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Shemagh_Scarf_01",
+									"Rarity": "VeryRare"
+								}
+							]
+						},
+						{
+							"Name": "Torso",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "BikerJackets",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Motorcycle_Jacket_01",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "CamoJackets",
+									"Rarity": "ExtremelyRare",
+									"Children": [
+										{
+											"Name": "Camouflage_Jacket_01",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Camouflage_Jacket_02",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Camouflage_Jacket_03",
+											"Rarity": "ExtremelyRare"
+										}
+									]
+								},
+								{
+									"Name": "Hoodies",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Hoodie_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "RK_Hoodie_01",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "JockJackets",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Jock_Jacket_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Other",
+									"Rarity": "ExtremelyRare",
+									"Children": [
+										{
+											"Name": "RH_Jacket",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Santa_Jacket",
+											"Rarity": "ExtremelyRare"
+										}
+									]
+								},
+								{
+									"Name": "Raincoats",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Raincoat_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Shirts",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "F_Undershirt_Bra_01",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Hippie_Shirt_01",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Jersey_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Military_Shirt_01",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Military_Shirt_04",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Military_Shirt_05",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Pajama_Shirt_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Shirt_01",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Sleeveless_Shirt_01",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Undershirt_01",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Woodcuters_Shirt_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Spitfire",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "College_Jacket_01",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "MA1_Spitfire_01",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Sweaters",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Sweater_01",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Tactical_Sweater_01",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Tactical_Sweater_04",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Tactical_Sweater_05",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "TacticalJackets",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Tactical_Jacket_01_01",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Tactical_Jacket_01_04",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Tactical_Jacket_01_05",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "Tracksuits",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Tracksuit_Top_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "TruckerJackets",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Trucker_Jacket_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "WorkJackets",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Work_Jacket_01",
+											"Rarity": "VeryRare"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Items",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "1H_Scalpel",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "Batteries",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Bobby_pin",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Crutch",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "Disposable_Mask",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Fabric",
+							"Rarity": "Common",
+							"Children": [
+								{
+									"Name": "EmptyBag",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Rag_Stripes",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Rags",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "FirstAid",
+							"Rarity": "VeryRare",
+							"Children": [
+								{
+									"Name": "Antibiotics",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Antibiotics_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Antibiotics_02",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Antibiotics_03",
+											"Rarity": "ExtremelyRare"
+										}
+									]
+								},
+								{
+									"Name": "Bandages",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Emergency_bandage",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Emergency_bandage_Big",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Hemostatic_Dressing",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Pressure_Dressing",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Tourniquet",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Charcoal",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "ActivatedCharcoal_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "ActivatedCharcoal_02",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "ActivatedCharcoal_03",
+											"Rarity": "ExtremelyRare"
+										}
+									]
+								},
+								{
+									"Name": "Painkillers",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Painkillers_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Painkillers_02",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "PainKillers_03",
+											"Rarity": "ExtremelyRare"
+										}
+									]
+								},
+								{
+									"Name": "Potassium",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "PotassiumIodide_Pills_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "PotassiumIodide_Pills_02",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "PotassiumIodide_Pills_03",
+											"Rarity": "ExtremelyRare"
+										}
+									]
+								},
+								{
+									"Name": "Vitamins",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "Vitamins_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Vitamins_02",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Vitamins_03",
+											"Rarity": "ExtremelyRare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Glass",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "Isopropyl_alcohol",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "Magnifying_Glass1",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "Needle",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Paper",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Pen",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Razor_Blade",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Rubber_band",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Scissors",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Scissors_01",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Scissors_Plastic",
+									"Rarity": "VeryRare"
+								}
+							]
+						},
+						{
+							"Name": "Soap",
+							"Rarity": "Abundant"
+						},
+						{
+							"Name": "Thread",
+							"Rarity": "Rare"
+						}
+					]
+				}
+			]
+		}
+	]
+}

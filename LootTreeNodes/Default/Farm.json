@@ -1,0 +1,84 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Rarity": "Uncommon",
+	"Children": [
+		{
+			"Name": "Farm",
+			"Rarity": "Uncommon",
+			"Children": [
+				{
+					"Name": "Fertilizers",
+					"Rarity": "Rare",
+					"Children": [
+						{
+							"Name": "Industrial_Fertilizer",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Organic_Fertilizer",
+							"Rarity": "VeryRare"
+						}
+					]
+				},
+				{
+					"Name": "Pesticides",
+					"Rarity": "Rare",
+					"Children": [
+						{
+							"Name": "Fungicide",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Herbicide",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Pesticide",
+							"Rarity": "Rare"
+						}
+					]
+				},
+				{
+					"Name": "Seeds",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "SeedBags",
+							"Rarity": "VeryRare",
+							"Children": [
+								{
+									"Name": "Apple_Seed_Bag",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Seeds",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Apple_Seeds",
+									"Rarity": "Rare"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Tools",
+					"Rarity": "Rare",
+					"Children": [
+						{
+							"Name": "2H_Industrial_Gardening_Hoe",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "Watering_Can",
+							"Rarity": "Uncommon"
+						}
+					]
+				}
+			]
+		}
+	]
+}

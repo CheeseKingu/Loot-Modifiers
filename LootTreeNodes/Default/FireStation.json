@@ -1,0 +1,178 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Rarity": "Uncommon",
+	"Children": [
+		{
+			"Name": "FireStation",
+			"Rarity": "Uncommon",
+			"Children": [
+				{
+					"Name": "Clothes",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Boots",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Boots_06_01",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Boots_07_01",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Feet",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Working_pants_01_01",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Head",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Fireman_Helmet_01",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Working_Helmet_01",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Torso",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Work_Jacket_01",
+									"Rarity": "Rare"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "FoodDrinks",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Drinks",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Can01",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "GlassBottle01",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "PETBottle01",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Water_05l",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "Food",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Barberry",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Blackberry",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Blueberries",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Chips",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "ChocolateCandy_01",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "ChocolateCandy_08",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Currant",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Grapes_Raw",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Hazelnuts",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Instant_OatMeal",
+									"Rarity": "ExtremelyRare"
+								},
+								{
+									"Name": "Mulberry",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Oak_Nuts",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Walnut",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Wild_Strawberry",
+									"Rarity": "Uncommon"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Tools",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "1H_Crowbar",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "1H_Wrench_Pipe",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Hose",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Watering_Can",
+							"Rarity": "Rare"
+						}
+					]
+				}
+			]
+		}
+	]
+}

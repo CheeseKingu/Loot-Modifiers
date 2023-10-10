@@ -1,0 +1,140 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Rarity": "Uncommon",
+	"Children": [
+		{
+			"Name": "Beach",
+			"Rarity": "Uncommon",
+			"Children": [
+				{
+					"Name": "DivingEquipment",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Diving_Mask",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Diving_Mask_With_Breathing_Tube",
+							"Rarity": "Rare"
+						}
+					]
+				},
+				{
+					"Name": "Fishing",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Floater",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "FishingFloater",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "FishingFloater1",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "FishingFloaterPack1",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "FishingFloaterPack2",
+									"Rarity": "VeryRare"
+								}
+							]
+						},
+						{
+							"Name": "Hooks",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "FishingHookPack1",
+									"Rarity": "Common"
+								},
+								{
+									"Name": "FishingHookPack2",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "FishingHookPack3",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "FishingHookPack4",
+									"Rarity": "VeryRare"
+								}
+							]
+						},
+						{
+							"Name": "Nylon",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "FishingLine_1",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "FishingLine_2",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "FishingLine_3",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "FishingLine_4",
+									"Rarity": "ExtremelyRare"
+								}
+							]
+						},
+						{
+							"Name": "Reels",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "FishingReel",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "FishingReelPro",
+									"Rarity": "VeryRare"
+								}
+							]
+						},
+						{
+							"Name": "Rods",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "FishingRod",
+									"Rarity": "Rare"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "GrillGrid",
+					"Rarity": "Rare"
+				},
+				{
+					"Name": "Paddles",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Long_Paddle",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Short_Paddle_A",
+							"Rarity": "Rare"
+						}
+					]
+				}
+			]
+		}
+	]
+}

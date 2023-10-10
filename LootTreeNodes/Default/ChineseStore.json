@@ -1,0 +1,110 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Rarity": "Uncommon",
+	"Children": [
+		{
+			"Name": "ChineseStore",
+			"Rarity": "Uncommon",
+			"Children": [
+				{
+					"Name": "Clothes",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Hats",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Bamboo_Hat_01",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Pants",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Shimoro_Pants",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Tang_pants_01",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "Shirts",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Shimoro_Vest",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Tang_shirt_01",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "Shoes",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Beijing_Shoes_01",
+									"Rarity": "Rare"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Misc",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Double_Bang_Firecracker",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Hand_Fan_01",
+							"Rarity": "Rare"
+						}
+					]
+				},
+				{
+					"Name": "Weapons",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Spears",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Wushu_Spear_Metal",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Wushu_Spear_Wooden",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Swords",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "2H_Tang_Dao",
+									"Rarity": "Rare"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

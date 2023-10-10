@@ -1,0 +1,120 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Rarity": "Uncommon",
+	"Children": [
+		{
+			"Name": "Insects",
+			"Rarity": "Uncommon",
+			"Children": [
+				{
+					"Name": "Coastal",
+					"Rarity": "Rare",
+					"Children": [
+						{
+							"Name": "Dirt",
+							"Rarity": "VeryRare",
+							"Children": [
+								{
+									"Name": "Cricket",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Earthworm",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Grasshopper",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Larve",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "Foliage",
+							"Rarity": "VeryRare",
+							"Children": [
+								{
+									"Name": "Cricket",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Grasshopper",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "Trees",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Cricket",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Grasshopper",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Larve",
+									"Rarity": "Rare"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Continental",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Dirt",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Earthworm",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Grasshopper",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Larve",
+									"Rarity": "VeryRare"
+								}
+							]
+						},
+						{
+							"Name": "Foliage",
+							"Rarity": "VeryRare",
+							"Children": [
+								{
+									"Name": "Grasshopper",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Trees",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Grasshopper",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Larve",
+									"Rarity": "Uncommon"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

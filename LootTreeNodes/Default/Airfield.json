@@ -1,0 +1,296 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Rarity": "Uncommon",
+	"Children": [
+		{
+			"Name": "Airfield",
+			"Rarity": "Uncommon",
+			"Children": [
+				{
+					"Name": "Clothes",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Feet",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "CombatBoots",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "MilitaryBoots_JNA",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "MilitaryBoots_Peace",
+									"Rarity": "VeryRare"
+								}
+							]
+						},
+						{
+							"Name": "Head",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Pilot_Glasses",
+									"Rarity": "Common"
+								},
+								{
+									"Name": "Pilot_Hat_01",
+									"Rarity": "Common"
+								}
+							]
+						},
+						{
+							"Name": "Parachute",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Torso",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Pilot_Jacket",
+									"Rarity": "Rare"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Medical",
+					"Rarity": "VeryRare",
+					"Children": [
+						{
+							"Name": "ActivatedCharcoal_01",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Emergency_bandage",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Hemostatic_Dressing",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "Painkillers_01",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Pressure_Dressing",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "Tourniquet",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "Vitamins_01",
+							"Rarity": "Rare"
+						}
+					]
+				},
+				{
+					"Name": "Misc",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Batteries",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Bobby_Pin_Pacage",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "BoomBox_01",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "CD_Player",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Cigarettes",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Cigarettes",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "Diary",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Duct_Tape",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "EmptyBag",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Glue",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Glue",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "Lighter",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Lock_Item_Advanced",
+							"Rarity": "ExtremelyRare"
+						},
+						{
+							"Name": "Lock_Item_Basic",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Lock_Items_Medium",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "Lockpick_Advanced_Item",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "Lockpick_Item",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Magnifying_Glass1",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "Matches",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Mobile_Phone",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Needle",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "Padlock",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Paper",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Pen",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Radio",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "Rag_Stripes",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Rags",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Rope1",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Safety_pin",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Screwdriver",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "Screwdriver_Small",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Smartphone_Battery",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Thread",
+							"Rarity": "Rare"
+						}
+					]
+				},
+				{
+					"Name": "Tools",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Aeroplane_Repair_Kit",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Car_Battery",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Car_Battery_Cables",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Electrical",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Batteries",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Electrical_Repair_Kit",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Electrician_Tools",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Wire",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Wire_Cutters_01",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "Smartphone_Battery",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Tool_Box",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "Tool_Box_Small",
+							"Rarity": "Rare"
+						}
+					]
+				}
+			]
+		}
+	]
+}

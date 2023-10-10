@@ -1,0 +1,2810 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Rarity": "Uncommon",
+	"Children": [
+		{
+			"Name": "Military",
+			"Rarity": "Uncommon",
+			"Children": [
+				{
+					"Name": "Ammo",
+					"Rarity": "Rare",
+					"Children": [
+						{
+							"Name": "12Gauge",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "BigStash",
+									"Rarity": "Rare",
+									"PostSpawnActions": [
+										"SetAmmoAmount_BigStash"
+									],
+									"Children": [
+										{
+											"Name": "12_Gauge_BirdShot",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "12_Gauge_Buckshot",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "12_Gauge_Slug",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Boxed",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "12_Gauge_BirdShot_Ammobox",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "12_Gauge_Buckshot_Ammobox",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "12_Gauge_Slug_Ammobox",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "SmallStash",
+									"Rarity": "Common",
+									"PostSpawnActions": [
+										"SetAmmoAmount_SmallStash"
+									],
+									"Children": [
+										{
+											"Name": "12_Gauge_BirdShot",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "12_Gauge_Buckshot",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "12_Gauge_Slug",
+											"Rarity": "VeryRare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "AP",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "BigStash",
+									"Rarity": "Uncommon",
+									"PostSpawnActions": [
+										"SetAmmoAmount_BigStash"
+									],
+									"Children": [
+										{
+											"Name": "Cal_30-06_AP",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_308_AP",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_338_AP",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_357_Viper_AP",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_38_AP",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Cal_44_Viper_AP",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_45_AP",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_50_AE_AP",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_50BMG_AP",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Cal_5_45x39mm_AP",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_5_56x45mm_AP",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x39mm_AP",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x54mmR_AP",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Cal_7_92x57mm_AP",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Cal_9mm_AP",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_9x39mm_AP",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "Boxed",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Cal_30-06_Ammobox_AP",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_308_Ammobox_AP",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_338_Ammobox_AP",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_357_Ammobox_AP",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_38_Ammobox_AP",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Cal_44_Viper_Ammobox_AP",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Cal_45_AP_Ammobox",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_50_AE_AP_Ammobox",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_50BMG_AP_Ammobox",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Cal_5_45x39mm_AP_Ammobox",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_5_56x45mm_AP_Ammobox",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x39mm_AP_Ammobox",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x54mmR_AP_Ammobox",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_92x57mm_AP_Ammobox",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Cal_9mm_AP_Ammobox",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_9x39mm_AP_Ammobox",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "SmallStash",
+									"Rarity": "Common",
+									"PostSpawnActions": [
+										"SetAmmoAmount_SmallStash"
+									],
+									"Children": [
+										{
+											"Name": "Cal_30-06_AP",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_308_AP",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_338_AP",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_357_Viper_AP",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_38_AP",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Cal_44_Viper_AP",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_45_AP",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_50_AE_AP",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_50BMG_AP",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Cal_5_45x39mm_AP",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_5_56x45mm_AP",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x39mm_AP",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x54mmR_AP",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Cal_7_92x57mm_AP",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Cal_9mm_AP",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_9x39mm_AP",
+											"Rarity": "Uncommon"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Arrows",
+							"Rarity": "VeryRare",
+							"Children": [
+								{
+									"Name": "Bolts",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Ammo_Crossbow_Bolt_Carbon",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Ammo_Crossbow_Bolt_Metal",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Broadheads",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Carbon",
+											"Rarity": "VeryRare",
+											"Children": [
+												{
+													"Name": "BigStash",
+													"Rarity": "VeryRare",
+													"PostSpawnActions": [
+														"SetAmmoAmount_BigStash"
+													],
+													"Children": [
+														{
+															"Name": "Carbon_BroadHead_Arrow",
+															"Rarity": "VeryRare"
+														}
+													]
+												},
+												{
+													"Name": "SmallStash",
+													"Rarity": "Rare",
+													"PostSpawnActions": [
+														"SetAmmoAmount_SmallStash"
+													],
+													"Children": [
+														{
+															"Name": "Carbon_BroadHead_Arrow",
+															"Rarity": "Rare"
+														}
+													]
+												}
+											]
+										},
+										{
+											"Name": "Metal",
+											"Rarity": "VeryRare",
+											"Children": [
+												{
+													"Name": "BigStash",
+													"Rarity": "VeryRare",
+													"PostSpawnActions": [
+														"SetAmmoAmount_BigStash"
+													],
+													"Children": [
+														{
+															"Name": "Metal_BroadHead_Arrow",
+															"Rarity": "VeryRare"
+														}
+													]
+												},
+												{
+													"Name": "SmallStash",
+													"Rarity": "Rare",
+													"PostSpawnActions": [
+														"SetAmmoAmount_SmallStash"
+													],
+													"Children": [
+														{
+															"Name": "Metal_BroadHead_Arrow",
+															"Rarity": "Rare"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"Name": "Fieldtips",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Carbon",
+											"Rarity": "Rare",
+											"Children": [
+												{
+													"Name": "BigStash",
+													"Rarity": "VeryRare",
+													"PostSpawnActions": [
+														"SetAmmoAmount_BigStash"
+													],
+													"Children": [
+														{
+															"Name": "Carbon_Arrow",
+															"Rarity": "VeryRare"
+														}
+													]
+												},
+												{
+													"Name": "SmallStash",
+													"Rarity": "Rare",
+													"PostSpawnActions": [
+														"SetAmmoAmount_SmallStash"
+													],
+													"Children": [
+														{
+															"Name": "Carbon_Arrow",
+															"Rarity": "Rare"
+														}
+													]
+												}
+											]
+										},
+										{
+											"Name": "Metal",
+											"Rarity": "Rare",
+											"Children": [
+												{
+													"Name": "BigStash",
+													"Rarity": "VeryRare",
+													"PostSpawnActions": [
+														"SetAmmoAmount_BigStash"
+													],
+													"Children": [
+														{
+															"Name": "Metal_Arrow",
+															"Rarity": "VeryRare"
+														}
+													]
+												},
+												{
+													"Name": "SmallStash",
+													"Rarity": "Rare",
+													"PostSpawnActions": [
+														"SetAmmoAmount_SmallStash"
+													],
+													"Children": [
+														{
+															"Name": "Metal_Arrow",
+															"Rarity": "Rare"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Regular",
+							"Rarity": "Common",
+							"Children": [
+								{
+									"Name": "BigStash",
+									"Rarity": "Uncommon",
+									"PostSpawnActions": [
+										"SetAmmoAmount_BigStash"
+									],
+									"Children": [
+										{
+											"Name": "Cal_22",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_38",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Cal_45",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_308",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_338",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_30-06",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_357_Viper",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_44_Viper",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_50_AE",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_50BMG",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Cal_5_45x39mm",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_5_56x45mm",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x39mm",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x54mmR",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Cal_7_92x57mm",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Cal_9mm",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_9x39mm",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "FlareCartridge",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Boxed",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Cal_22_Ammobox",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_30-06_Ammobox",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_308_Ammobox",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_338_Ammobox",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_357_Ammobox",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_38_Ammobox",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Cal_44_Viper_Ammobox",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_45_Ammobox",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_50_AE_Ammobox",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_50BMG_Ammobox",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Cal_5_45x39mm_Ammobox",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_5_56x45mm_Ammobox",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x39mm_Ammobox",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x54mmR_Ammobox",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Cal_7_92x57mm_Ammobox",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Cal_9mm_Ammobox",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_9x39mm_Ammobox",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "SmallStash",
+									"Rarity": "Common",
+									"PostSpawnActions": [
+										"SetAmmoAmount_SmallStash"
+									],
+									"Children": [
+										{
+											"Name": "Cal_22",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Cal_38",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Cal_45",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_308",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_338",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_30-06",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_357_Viper",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Cal_44_Viper",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_50_AE",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_50BMG",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Cal_5_45x39mm",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_5_56x45mm",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x39mm",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x54mmR",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Cal_7_92x57mm",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Cal_9mm",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_9x39mm",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "FlareCartridge",
+											"Rarity": "Rare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Tracers",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "BigStash",
+									"Rarity": "Uncommon",
+									"PostSpawnActions": [
+										"SetAmmoAmount_BigStash"
+									],
+									"Children": [
+										{
+											"Name": "Cal_22_TR",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_30-06_TR",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_308_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_338_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_357_Viper_TR",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_38_TR",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Cal_44_Viper_TR",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_45_TR",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_50_AE_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_50BMG_TR",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Cal_5_45x39mm_TR",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_5_56x45mm_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x39mm_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x54mmR_TR",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Cal_7_92x57mm_TR",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Cal_9mm_TR",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_9x39mm_TR",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "Boxed",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Cal_22_Ammobox_TR",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_30-06_Ammobox_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_308_Ammobox_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_338_Ammobox_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_357_Ammobox_TR",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_38_Ammobox_TR",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Cal_44_Viper_Ammobox_TR",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_45_Ammobox_TR",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_50_AE_Ammobox_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_50BMG_Ammobox_TR",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Cal_5_45x39mm_Ammobox_TR",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_5_56x45mm_Ammobox_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x39mm_Ammobox_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x54mmR_Ammobox_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_92x57mm_Ammobox_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_9mm_Ammobox_TR",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_9x39mm_Ammobox_TR",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "SmallStash",
+									"Rarity": "Common",
+									"PostSpawnActions": [
+										"SetAmmoAmount_SmallStash"
+									],
+									"Children": [
+										{
+											"Name": "Cal_22_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_30-06_TR",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_308_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_338_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_357_Viper_TR",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_38_TR",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Cal_44_Viper_TR",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Cal_45_TR",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_50_AE_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_50BMG_TR",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Cal_5_45x39mm_TR",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Cal_5_56x45mm_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x39mm_TR",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cal_7_62x54mmR_TR",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Cal_7_92x57mm_TR",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Cal_9mm_TR",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Cal_9x39mm_TR",
+											"Rarity": "Uncommon"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Clothes",
+					"Rarity": "Rare",
+					"Children": [
+						{
+							"Name": "Feet",
+							"Rarity": "ExtremelyRare",
+							"Children": [
+								{
+									"Name": "HikingsBoots",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Hiking_Boots_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Hiking_Boots_04",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "MilitaryBoots",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "CombatBoots",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "MilitaryBoots_JNA",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "MilitaryBoots_Peace",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Sportswear",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "HighTops",
+											"Rarity": "Rare",
+											"Children": [
+												{
+													"Name": "HighTop_Shoes",
+													"Rarity": "Rare"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Hands",
+							"Rarity": "Common",
+							"Children": [
+								{
+									"Name": "OpenFingerGloves",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Open_Finger_Gloves_01",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Open_Finger_Gloves_03",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Open_Finger_Gloves_04",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "TacticalGloves",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Tactical_Gloves_01_01",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "WoolGloves",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Wool_Gloves_01_01",
+											"Rarity": "VeryRare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Head",
+							"Rarity": "Abundant",
+							"Children": [
+								{
+									"Name": "Balaclavas",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Military_Mask_01",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "Beanies",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "Military_Beanie_01",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Military_Beanie_04",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Military_Beanie_05",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "RK_Beanie_01",
+											"Rarity": "ExtremelyRare"
+										}
+									]
+								},
+								{
+									"Name": "BoonieHats",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Military_Boonie_Hat_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Military_Boonie_Hat_04",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Military_Boonie_Hat_05",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "EarProtection",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Ear_Plugs",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "EarMuffs",
+											"Rarity": "VeryRare",
+											"Children": [
+												{
+													"Name": "Construction_Earmuffs_01",
+													"Rarity": "VeryRare"
+												}
+											]
+										}
+									]
+								},
+								{
+									"Name": "Goggles",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Military_Goggles_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Pilot_Glasses",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Tactical_Sunglasses_01",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "MarineCaps",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Marine_Cap_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Marine_Cap_04",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Marine_Cap_05",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "MilitaryCaps",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "Military_Cap_01",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Military_Cap_04",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Military_Cap_05",
+											"Rarity": "Common"
+										}
+									]
+								},
+								{
+									"Name": "Scarfs",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Shemagh_Scarf_01",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "SlouchHats",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "Slouch_Camo_Hat_01",
+											"Rarity": "Rare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Legs",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "GhillieSuitPants",
+									"Rarity": "ExtremelyRare",
+									"Children": [
+										{
+											"Name": "Ghillie_Suit_Pants_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Ghillie_Suit_Pants_02",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Ghillie_Suit_Pants_03",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Ghillie_Suit_Pants_04",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Ghillie_Suit_Pants_05",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "ShortTrousers",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Short_Trousers_01_01",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "TacticalMilitaryPants",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "MilitaryPants_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "MilitaryPants_04",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "MilitaryPants_05",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "MilitaryPants_08",
+											"Rarity": "ExtremelyRare"
+										}
+									]
+								},
+								{
+									"Name": "Underwear",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Underpants_01",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "WorkPants",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Working_pants_01_01",
+											"Rarity": "Uncommon"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Torso",
+							"Rarity": "Common",
+							"Children": [
+								{
+									"Name": "CamoJackets",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Camouflage_Jacket_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Camouflage_Jacket_02",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Camouflage_Jacket_03",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "GhillieSuitJackets",
+									"Rarity": "ExtremelyRare",
+									"Children": [
+										{
+											"Name": "Ghillie_Suit_Jacket_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Ghillie_Suit_Jacket_02",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Ghillie_Suit_Jacket_03",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Ghillie_Suit_Jacket_04",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Ghillie_Suit_Jacket_05",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "MilitaryShirts",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "Military_Shirt_01",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Military_Shirt_04",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Military_Shirt_05",
+											"Rarity": "Common"
+										}
+									]
+								},
+								{
+									"Name": "Raincoats",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Raincoat_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Sleeveless_Camo_Shirt_01",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Tactical_Vest_01",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "TacticalJackets",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Tactical_Jacket_01_01",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Tactical_Jacket_01_04",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Tactical_Jacket_01_05",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "TacticalSweaters",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Tactical_Sweater_01",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Tactical_Sweater_04",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Tactical_Sweater_05",
+											"Rarity": "Uncommon"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "FoodDrink",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Drink",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Beer",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Can01",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Canteen",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Kicmovaca",
+									"Rarity": "ExtremelyRare"
+								},
+								{
+									"Name": "PETBottle01",
+									"Rarity": "VeryRare"
+								}
+							]
+						},
+						{
+							"Name": "Food",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Cans",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "BakedBeans",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "BeefRavioli",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "BeefStew",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "BlackOlives",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Canned_Corn",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Canned_Tuna",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "CannedFruitCoctail",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "CannedGoulash",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "CannedPeach",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "CannedPear",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "CannedPeas",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "CannedSardine",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "CannedSpaghetti",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Chow_Mein",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "GuavaHalves",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "MRE_Cheeseburger",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Spon",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "TomatoPelate",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "TomatoSouce",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Snacks",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Candy",
+											"Rarity": "Rare",
+											"Children": [
+												{
+													"Name": "Candy_Bob",
+													"Rarity": "ExtremelyRare"
+												}
+											]
+										},
+										{
+											"Name": "Chips",
+											"Rarity": "Rare",
+											"Children": [
+												{
+													"Name": "Bag_of_Almonds",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Chips",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "MeatSnack_01",
+													"Rarity": "Rare"
+												}
+											]
+										},
+										{
+											"Name": "Chocolate",
+											"Rarity": "Rare",
+											"Children": [
+												{
+													"Name": "ChocolateCandy_01",
+													"Rarity": "Uncommon"
+												},
+												{
+													"Name": "ChocolateCandy_08",
+													"Rarity": "Rare"
+												}
+											]
+										},
+										{
+											"Name": "Pastries",
+											"Rarity": "Rare",
+											"Children": [
+												{
+													"Name": "Crackers",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Toaster_Pastries",
+													"Rarity": "Rare"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Gear",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Armor",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Helmets",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Combat",
+											"Rarity": "VeryRare",
+											"Children": [
+												{
+													"Name": "Combat_Helmet_01",
+													"Rarity": "VeryRare"
+												},
+												{
+													"Name": "Combat_Helmet_03",
+													"Rarity": "VeryRare"
+												},
+												{
+													"Name": "Combat_Helmet_04",
+													"Rarity": "VeryRare"
+												}
+											]
+										},
+										{
+											"Name": "K6-3_Helmet",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Military",
+											"Rarity": "Rare",
+											"Children": [
+												{
+													"Name": "M1_Medical_Helmet",
+													"Rarity": "VeryRare"
+												},
+												{
+													"Name": "Military_Helmet_01_01",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Military_Helmet_01_04",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Military_Helmet_01_05",
+													"Rarity": "Rare"
+												}
+											]
+										}
+									]
+								},
+								{
+									"Name": "Vests",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Ballistic",
+											"Rarity": "Rare",
+											"Children": [
+												{
+													"Name": "Bulletproof_Vest_01",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Bulletproof_Vest_01_03",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Bulletproof_Vest_01_04",
+													"Rarity": "Rare"
+												}
+											]
+										},
+										{
+											"Name": "Stabproof",
+											"Rarity": "Abundant",
+											"Children": [
+												{
+													"Name": "Stabproof_Vest_01_01",
+													"Rarity": "Uncommon"
+												},
+												{
+													"Name": "Stabproof_Vest_01_04",
+													"Rarity": "Uncommon"
+												},
+												{
+													"Name": "Stabproof_Vest_01_05",
+													"Rarity": "Uncommon"
+												}
+											]
+										},
+										{
+											"Name": "Tactical",
+											"Rarity": "VeryRare",
+											"Children": [
+												{
+													"Name": "Armor_Tactical_Vest_01_01",
+													"Rarity": "VeryRare"
+												},
+												{
+													"Name": "Armor_Tactical_Vest_01_03",
+													"Rarity": "VeryRare"
+												},
+												{
+													"Name": "Armor_Tactical_Vest_01_04",
+													"Rarity": "VeryRare"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Attachments",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Bayonets",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Kar98_Bayonet",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "M1_Bayonet",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "M70_Bayonet",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Mosin_Bayonet",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "N9s",
+											"Rarity": "Rare",
+											"Children": [
+												{
+													"Name": "1H_N9_Black",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "1H_N9_White",
+													"Rarity": "Rare"
+												}
+											]
+										}
+									]
+								},
+								{
+									"Name": "Camouflage",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "WeaponGhillie_Desert",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponGhillie_Winter",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponGhillie_Woodland",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Flashlights",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "WeaponFlashlight_AS_Val",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "WeaponFlashlight_DesertEagle",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponFlashlight_M9",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "Rails",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "DW715_Rail",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "M1911_Rail",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "MP5_Rail_Short",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "ScopeRail_AK47",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Scopes",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "M82s",
+											"Rarity": "VeryRare",
+											"Children": [
+												{
+													"Name": "WeaponScope_M82A1",
+													"Rarity": "VeryRare"
+												},
+												{
+													"Name": "WeaponScope_M82A1_Black",
+													"Rarity": "VeryRare"
+												},
+												{
+													"Name": "WeaponScope_M82A1_Desert",
+													"Rarity": "VeryRare"
+												},
+												{
+													"Name": "WeaponScope_M82A1_Snow",
+													"Rarity": "VeryRare"
+												}
+											]
+										},
+										{
+											"Name": "WeaponScope_ACOG_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponScope_Dragunov",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponScope_HuntingScope",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponScope_POSP",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponScope_Vampyr",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "WW2s",
+											"Rarity": "VeryRare",
+											"Children": [
+												{
+													"Name": "WeaponScope_ZF39",
+													"Rarity": "VeryRare"
+												},
+												{
+													"Name": "WeaponSights_M1_ScopeAndSights",
+													"Rarity": "VeryRare"
+												}
+											]
+										}
+									]
+								},
+								{
+									"Name": "Sights",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "BowSights",
+											"Rarity": "VeryRare",
+											"Children": [
+												{
+													"Name": "CompoundBowSight_3_Pin",
+													"Rarity": "VeryRare"
+												},
+												{
+													"Name": "CompoundBowSight_5_Pin",
+													"Rarity": "VeryRare"
+												}
+											]
+										},
+										{
+											"Name": "WeaponSights_AimPRO",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponSights_Deagle_RedDot",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "WeaponSights_M16A4_FoldingSights",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "WeaponSights_M1_Experimental",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "WeaponSights_MRO_Red_Dot",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponSights_OKP-7_Holographic",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponSights_RedDot_CA401B",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponSights_Sentry_RDRS",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponSights_Shark",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponSights_Snake",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponSights_V3_Holographic",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponSights_Wasp",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponSights_XPS300_Holographic",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Suppressors",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "BowParts",
+											"Rarity": "Rare",
+											"Children": [
+												{
+													"Name": "Bow_MicroStabilizer",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "BowSilencer",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "BowSilencer_SlipOn",
+													"Rarity": "Rare"
+												}
+											]
+										},
+										{
+											"Name": "M1Parts",
+											"Rarity": "VeryRare",
+											"Children": [
+												{
+													"Name": "WeaponFlashHider",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "WeaponSuppressor_M1",
+													"Rarity": "Rare"
+												}
+											]
+										},
+										{
+											"Name": "M82Suppressors",
+											"Rarity": "VeryRare",
+											"Children": [
+												{
+													"Name": "WeaponSuppressor_M82A1",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "WeaponSuppressor_M82A1_Black",
+													"Rarity": "VeryRare"
+												},
+												{
+													"Name": "WeaponSuppressor_M82A1_Desert",
+													"Rarity": "VeryRare"
+												},
+												{
+													"Name": "WeaponSuppressor_M82A1_Snow",
+													"Rarity": "VeryRare"
+												}
+											]
+										},
+										{
+											"Name": "WeaponSuppressor_12_Gauge",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponSuppressor_308_Black",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponSuppressor_30_06",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "WeaponSuppressor_338_Black",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponSuppressor_338_Green",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponSuppressor_338_Tan",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponSuppressor_5_45x39",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "WeaponSuppressor_AK15",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponSuppressor_M1891",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "WeaponSuppressor_MK18",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "WeaponSuppressor_MP5",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "WeaponSuppressor_SVD",
+											"Rarity": "ExtremelyRare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Backpacks",
+							"Rarity": "ExtremelyRare",
+							"Children": [
+								{
+									"Name": "Assault",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Military_Backpack_01_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Military_Backpack_01_04",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Military_Backpack_01_05",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Bedroll",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Hiking",
+									"Rarity": "ExtremelyRare",
+									"Children": [
+										{
+											"Name": "Camo",
+											"Rarity": "VeryRare",
+											"Children": [
+												{
+													"Name": "Military_Backpack_02_01",
+													"Rarity": "VeryRare"
+												},
+												{
+													"Name": "Military_Backpack_02_04",
+													"Rarity": "VeryRare"
+												},
+												{
+													"Name": "Military_Backpack_02_05",
+													"Rarity": "VeryRare"
+												}
+											]
+										},
+										{
+											"Name": "Other",
+											"Rarity": "Rare",
+											"Children": [
+												{
+													"Name": "Hiking_Backpack_01_01",
+													"Rarity": "Rare"
+												}
+											]
+										}
+									]
+								},
+								{
+									"Name": "Holsters",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Belt_Pistol_Holster",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Military",
+											"Rarity": "Common",
+											"Children": [
+												{
+													"Name": "Tactical_Handgun_Holster_01",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Tactical_Handgun_Holster_04",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Tactical_Handgun_Holster_05",
+													"Rarity": "Rare"
+												}
+											]
+										}
+									]
+								},
+								{
+									"Name": "Plain",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Backpack_02_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Quivers",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Military_Quiver_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "WaistBags",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Waist_Bag_Small_01",
+											"Rarity": "Rare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Explosives",
+							"Rarity": "VeryRare",
+							"Children": [
+								{
+									"Name": "Cal_40_OG-7V",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Cal_40_PG-7M",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Cal_40x46",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Claymore",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "FlareItem",
+									"Rarity": "Common"
+								},
+								{
+									"Name": "Flares",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "FlareItem",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Flashbang",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Frag_Grenade",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Gun_Powder",
+									"Rarity": "Abundant"
+								},
+								{
+									"Name": "Mine_01",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "PromTrap",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Smoke_Grenade",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "TNT",
+									"Rarity": "VeryRare"
+								}
+							]
+						},
+						{
+							"Name": "Magazines",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "AssaultRifles",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Magazine_AK15",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Magazine_AK47",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Magazine_M16",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Magazine_M249",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Magazine_RPK",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Magazine_VHS2",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Handguns",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Magazine_Block21",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Magazine_DEagle_50",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Magazine_DEagle_357",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Magazine_HS9",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Magazine_M1911",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Magazine_M9",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Magazine_SF19",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Rifles",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "M1_Clip",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Magazine_CarbonHunter",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Magazine_Hunter85_V2",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "SMGs",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Magazine_AKS_74U",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Magazine_AS_Val",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Magazine_MP5",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Magazine_UMP45",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "Snipers",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Magazine_AWM",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Magazine_AWP",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Magazine_M82A1",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Magazine_SVD_Dragunov",
+											"Rarity": "Rare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Optics",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Binoculars",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Night_Vision_Googles_01",
+									"Rarity": "VeryRare"
+								}
+							]
+						},
+						{
+							"Name": "Tools",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "BCULock_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Compass",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Compass_Advanced",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "DialLock_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "GasMasks",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Gas_Mask_01",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Gas_Mask_02",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Gas_Mask_03",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Gas_Mask_04",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "Geiger_Counter_Analogue",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Grinding_Stone_02",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Knives",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "1H_Bushman",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "1H_Hunter",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "1H_Kunai",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "1H_MK5000_Black",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "1H_Scout_Black",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "1H_Shuriken",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "MetalDetector",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Sewing_kit",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Tool_Box_Small",
+									"Rarity": "ExtremelyRare"
+								},
+								{
+									"Name": "Weapon_Cleaning_Kit",
+									"Rarity": "VeryRare"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Weapons",
+					"Rarity": "ExtremelyRare",
+					"Children": [
+						{
+							"Name": "AssaultRifles",
+							"Rarity": "VeryRare",
+							"Children": [
+								{
+									"Name": "AKs",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Weapon_AK15",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Weapon_AK47",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Weapon_AK47_Engraved",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Weapon_AKM",
+											"Rarity": "Common"
+										}
+									]
+								},
+								{
+									"Name": "Weapon_M16A4",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Weapon_MK18",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Weapon_VHS2",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Weapon_VHS2_Rail",
+									"Rarity": "VeryRare"
+								}
+							]
+						},
+						{
+							"Name": "GrenadeLaunchers",
+							"Rarity": "ExtremelyRare",
+							"Children": [
+								{
+									"Name": "Weapon_AT4_HEAT",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Weapon_AT4_HEDP",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Weapon_RPG7",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Weapon_VHS_BG",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Handguns",
+							"Rarity": "Abundant",
+							"Children": [
+								{
+									"Name": "DEagles",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Weapon_DEagle_50",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Weapon_Deagle_357",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Weapon_DEagle_50Gold",
+											"Rarity": "ExtremelyRare"
+										}
+									]
+								},
+								{
+									"Name": "M1911s",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "Weapon_M1911",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Weapon_M1911_Engraved",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Weapon_M1911_Gold",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Weapon_M1911_JayW",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "M9s",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "Weapon_M9",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Weapon_M9_Silver",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Revolvers",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Weapon_Judge44",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Weapon_PeaceKeeper38",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Weapon_Serpent357",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Weapon_Viper_M357",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Weapon_Block21",
+									"Rarity": "Common"
+								},
+								{
+									"Name": "Weapon_FlareGun",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Weapon_HS9",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Weapon_SF19",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "LMGs",
+							"Rarity": "ExtremelyRare",
+							"Children": [
+								{
+									"Name": "Weapon_M249",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Weapon_RPK-74",
+									"Rarity": "ExtremelyRare"
+								}
+							]
+						},
+						{
+							"Name": "Other",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "2H_Katana",
+									"Rarity": "ExtremelyRare"
+								},
+								{
+									"Name": "Compound_Bow",
+									"Rarity": "Abundant"
+								},
+								{
+									"Name": "Recurve_Bow_100",
+									"Rarity": "Common"
+								},
+								{
+									"Name": "Weapon_BlackHawk_Crossbow",
+									"Rarity": "VeryRare"
+								}
+							]
+						},
+						{
+							"Name": "Rifles",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Weapon_98k_Karabiner",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Weapon_CarbonHunter",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Weapon_Hunter85_V2",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Weapon_M1_Garand",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Weapon_MosinNagant",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Shotguns",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Weapon_590A11",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Weapon_M1887",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Weapon_M1887_Sawed_off",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Weapon_SDASS",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "SMGs",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "MP5s",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Weapon_MP5",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "Weapon_MP5_K",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Weapon_MP5_SD",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Weapon_AKS_74U",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Weapon_AS_Val",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Weapon_UMP45",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Weapon_VSS_VZ",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Snipers",
+							"Rarity": "ExtremelyRare",
+							"Children": [
+								{
+									"Name": "M82A1s",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Weapon_M82A1",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "WeaponScope_M82A1_Black",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "WeaponScope_M82A1_Desert",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "WeaponScope_M82A1_Snow",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Weapon_AWM",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Weapon_AWP",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Weapon_SVD_Dragunov",
+									"Rarity": "VeryRare"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

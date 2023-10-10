@@ -1,0 +1,815 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Rarity": "Uncommon",
+	"Children": [
+		{
+			"Name": "Office",
+			"Rarity": "Uncommon",
+			"Children": [
+				{
+					"Name": "Drinks",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Alcoholic",
+							"Rarity": "VeryRare",
+							"Children": [
+								{
+									"Name": "Absinthe",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Hip_Flask",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Kicmovaca",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Tequila",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Vodka",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Whiskey",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Wine",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "NonAlcoholic",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Can01",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "PETBottle01",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Water_05l",
+									"Rarity": "Uncommon"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Food",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Snacks",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Candy",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Candy_Bob",
+											"Rarity": "ExtremelyRare"
+										}
+									]
+								},
+								{
+									"Name": "Cereal",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Cereal_BunnyStars",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Corn_flakes",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Instant_OatMeal",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Chips",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Chips",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "MeatSnack_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Chocolate",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "ChocolateCandy_01",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "ChocolateCandy_08",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "NutsAndBerries",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Barberry",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Blackberry",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Blueberries",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Currant",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Grapes_Raw",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Hazelnuts",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Mulberry",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Oak_Nuts",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Walnut",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Wild_Strawberry",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Pastries",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Crackers",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Toaster_Pastries",
+											"Rarity": "Rare"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Items",
+					"Rarity": "Abundant",
+					"Children": [
+						{
+							"Name": "Clothes",
+							"Rarity": "VeryRare",
+							"Children": [
+								{
+									"Name": "Feet",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Shoes",
+											"Rarity": "VeryRare",
+											"Children": [
+												{
+													"Name": "LeatherShoes",
+													"Rarity": "Uncommon",
+													"Children": [
+														{
+															"Name": "Leather_Shoes",
+															"Rarity": "Rare"
+														},
+														{
+															"Name": "RH_Shoe_01",
+															"Rarity": "VeryRare"
+														}
+													]
+												},
+												{
+													"Name": "Sneakers",
+													"Rarity": "Rare",
+													"Children": [
+														{
+															"Name": "HighTop_Shoes",
+															"Rarity": "Uncommon"
+														},
+														{
+															"Name": "Sneakers_02_01",
+															"Rarity": "Uncommon"
+														}
+													]
+												}
+											]
+										},
+										{
+											"Name": "Slippers",
+											"Rarity": "Rare",
+											"Children": [
+												{
+													"Name": "Slippers_01",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Slippers_03",
+													"Rarity": "Rare"
+												}
+											]
+										}
+									]
+								},
+								{
+									"Name": "Hands",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "DrivingGloves",
+											"Rarity": "Rare",
+											"Children": [
+												{
+													"Name": "Driving_Gloves_01_01",
+													"Rarity": "Rare"
+												}
+											]
+										},
+										{
+											"Name": "Medical_Glove_01",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "WoolGloves",
+											"Rarity": "Rare",
+											"Children": [
+												{
+													"Name": "Wool_Gloves_01_01",
+													"Rarity": "Rare"
+												}
+											]
+										}
+									]
+								},
+								{
+									"Name": "Head",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Caps",
+											"Rarity": "Uncommon",
+											"Children": [
+												{
+													"Name": "Baseball_Cap_13",
+													"Rarity": "VeryRare"
+												},
+												{
+													"Name": "Baseball_Cap_01",
+													"Rarity": "Rare"
+												}
+											]
+										},
+										{
+											"Name": "Ear_Plugs",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Goggles",
+											"Rarity": "Rare",
+											"Children": [
+												{
+													"Name": "Geek_Goggels",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Pilot_Glasses",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Round_Sunglasses",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Safety_Goggles",
+													"Rarity": "Rare"
+												}
+											]
+										},
+										{
+											"Name": "Hats",
+											"Rarity": "Uncommon",
+											"Children": [
+												{
+													"Name": "Boonie_Hat_01",
+													"Rarity": "Rare"
+												}
+											]
+										}
+									]
+								},
+								{
+									"Name": "Legs",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Pants",
+											"Rarity": "VeryRare",
+											"Children": [
+												{
+													"Name": "Jeans_01_01",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Jeans_02_01_V2",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Suite_Pants_01",
+													"Rarity": "Rare"
+												}
+											]
+										}
+									]
+								},
+								{
+									"Name": "Torso",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Hoodies",
+											"Rarity": "VeryRare",
+											"Children": [
+												{
+													"Name": "Hoodie_01",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "RK_Hoodie_01",
+													"Rarity": "VeryRare"
+												}
+											]
+										},
+										{
+											"Name": "Shirts",
+											"Rarity": "Rare",
+											"Children": [
+												{
+													"Name": "Jersey_01",
+													"Rarity": "Rare"
+												},
+												{
+													"Name": "Shirt_01",
+													"Rarity": "Uncommon"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Melee",
+							"Rarity": "ExtremelyRare",
+							"Children": [
+								{
+									"Name": "1H_Brass_knuckles",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "1H_Bushman",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "1H_Crowbar",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "1H_Hunter",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "1H_Kunai",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "1H_MK5000_Black",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "1H_Scout_Black",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "1H_Shuriken",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Misc",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Battery",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Batteries",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Smartphone_Battery",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Cigarettes",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Cigarettes",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cuban_Cigar",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Devices",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "BoomBox_01",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Mobile_Phone",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Radio",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Diary",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Duct_Tape",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Fabric",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "EmptyBag",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Rag_Stripes",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Rags",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Glue",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Glue",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "Lighter",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Lockpicks",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "Bobby_Pin_Pacage",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Lockpick_Advanced_Item",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Lockpick_Item",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Safety_pin",
+											"Rarity": "Abundant"
+										}
+									]
+								},
+								{
+									"Name": "Locks",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "Lock_Item_Advanced",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Lock_Item_Basic",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Lock_Items_Medium",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Padlock",
+											"Rarity": "Abundant"
+										}
+									]
+								},
+								{
+									"Name": "Magnifying_Glass1",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Matches",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Needle",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Paper",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Pen",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Screwdrivers",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Screwdriver",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Screwdriver_Small",
+											"Rarity": "Rare"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Other",
+					"Rarity": "ExtremelyRare",
+					"Children": [
+						{
+							"Name": "Backpacks",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Plain",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Backpack_02_01",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "TC_Backpack",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "WaistBags",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Scottish_Sporran_Bag_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Waist_Bag_Small_01",
+											"Rarity": "Rare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Money",
+							"Rarity": "ExtremelyRare",
+							"PostSpawnActions": [
+								"SetCashAmount_SmallStash"
+							],
+							"Children": [
+								{
+									"Name": "Cash",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Weapons",
+							"Rarity": "ExtremelyRare",
+							"Children": [
+								{
+									"Name": "Ammo",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "Regular",
+											"Rarity": "Common",
+											"Children": [
+												{
+													"Name": "BigStash",
+													"Rarity": "Uncommon",
+													"PostSpawnActions": [
+														"SetAmmoAmount_BigStash"
+													],
+													"Children": [
+														{
+															"Name": "Cal_22",
+															"Rarity": "Abundant"
+														},
+														{
+															"Name": "Cal_45",
+															"Rarity": "Common"
+														},
+														{
+															"Name": "Cal_357_Viper",
+															"Rarity": "Uncommon"
+														},
+														{
+															"Name": "Cal_50_AE",
+															"Rarity": "VeryRare"
+														},
+														{
+															"Name": "Cal_9mm",
+															"Rarity": "Uncommon"
+														}
+													]
+												},
+												{
+													"Name": "Boxed",
+													"Rarity": "VeryRare",
+													"Children": [
+														{
+															"Name": "Cal_22_Ammobox",
+															"Rarity": "Abundant"
+														},
+														{
+															"Name": "Cal_357_Ammobox",
+															"Rarity": "Uncommon"
+														},
+														{
+															"Name": "Cal_45_Ammobox",
+															"Rarity": "Common"
+														},
+														{
+															"Name": "Cal_50_AE_Ammobox",
+															"Rarity": "Uncommon"
+														},
+														{
+															"Name": "Cal_9mm_Ammobox",
+															"Rarity": "Common"
+														}
+													]
+												},
+												{
+													"Name": "SmallStash",
+													"Rarity": "Abundant",
+													"PostSpawnActions": [
+														"SetAmmoAmount_SmallStash"
+													],
+													"Children": [
+														{
+															"Name": "Cal_22",
+															"Rarity": "Abundant"
+														},
+														{
+															"Name": "Cal_45",
+															"Rarity": "Common"
+														},
+														{
+															"Name": "Cal_357_Viper",
+															"Rarity": "Uncommon"
+														},
+														{
+															"Name": "Cal_50_AE",
+															"Rarity": "Rare"
+														},
+														{
+															"Name": "Cal_9mm",
+															"Rarity": "Common"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"Name": "Handguns",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Weapon_Block21",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Weapon_Krueger",
+											"Rarity": "Abundant"
+										},
+										{
+											"Name": "Weapon_M1911",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Weapon_M9",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Weapon_M9_Silver",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Magazines",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "Magazine_Block21",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Magazine_M1911",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Magazine_M9",
+											"Rarity": "Uncommon"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

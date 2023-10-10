@@ -1,0 +1,591 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Rarity": "Uncommon",
+	"Children": [
+		{
+			"Name": "CarRepairShop",
+			"Rarity": "Uncommon",
+			"Children": [
+				{
+					"Name": "Crafting",
+					"Rarity": "Rare",
+					"Children": [
+						{
+							"Name": "Bolts",
+							"Rarity": "Abundant"
+						},
+						{
+							"Name": "Fabric",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "EmptyBag",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Rag_Stripes",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Rags",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "Fluids",
+							"Rarity": "VeryRare",
+							"Children": [
+								{
+									"Name": "Break_Oil",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Isopropyl_alcohol",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Locks",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Lock_Item_Advanced",
+									"Rarity": "ExtremelyRare"
+								},
+								{
+									"Name": "Lock_Item_Basic",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Lock_Items_Medium",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Padlock",
+									"Rarity": "Abundant"
+								}
+							]
+						},
+						{
+							"Name": "Nails",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "Scrap",
+							"Rarity": "Common",
+							"Children": [
+								{
+									"Name": "Metal_Scrap_01",
+									"Rarity": "Common"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "LightsFire",
+					"Rarity": "Rare",
+					"Children": [
+						{
+							"Name": "GasLantern",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "PortableWorkLight",
+							"Rarity": "Rare"
+						}
+					]
+				},
+				{
+					"Name": "Other",
+					"Rarity": "Rare",
+					"Children": [
+						{
+							"Name": "Flares",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "FlareItem",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "FoodAndDrink",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Cans",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "BakedBeans",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "BeefRavioli",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "BeefStew",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "BlackOlives",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "CannedGoulash",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "CannedSardine",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "CannedSpaghetti",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Chow_Mein",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "MRE_Cheeseburger",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Spon",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Drink",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Can01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "GlassBottle01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Kicmovaca",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "PETBottle01",
+											"Rarity": "VeryRare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Money",
+							"Rarity": "ExtremelyRare",
+							"PostSpawnActions": [
+								"SetCashAmount_SmallStash"
+							],
+							"Children": [
+								{
+									"Name": "Cash",
+									"Rarity": "Rare"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "RepairToolkits",
+					"Rarity": "Common",
+					"Children": [
+						{
+							"Name": "Car",
+							"Rarity": "Common",
+							"Children": [
+								{
+									"Name": "Car_Repair_Kit",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Tire_Repair_Kit",
+									"Rarity": "VeryRare"
+								}
+							]
+						},
+						{
+							"Name": "General",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Tool_Box",
+									"Rarity": "ExtremelyRare"
+								},
+								{
+									"Name": "Tool_Box_Small",
+									"Rarity": "Rare"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Tools",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Electrical",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Batteries",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Car_Battery",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Car_Battery_Cables",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Electrical_Repair_Kit",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Electrician_Tools",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Mobile_Phone",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Smartphone_Battery",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Wire",
+									"Rarity": "Abundant"
+								},
+								{
+									"Name": "Wire_Cutters_01",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "Hand",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "1H_Crowbar",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "1H_Metal_Pipe",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "1H_Wrench_Pipe",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "CanOpener",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Lockpick_Advanced_Item",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Lockpick_Item",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Screwdriver",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Screwdriver_Small",
+									"Rarity": "Common"
+								},
+								{
+									"Name": "Wire_Cutters_01",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Power",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Drill",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Rebar_Cutter",
+									"Rarity": "VeryRare"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "WorkClothes",
+					"Rarity": "VeryRare",
+					"Children": [
+						{
+							"Name": "Feet",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "ConstructionBoots",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Boots_06_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "HikingBoots",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Hiking_Boots_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "RubberBoots",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Boots_07_01",
+											"Rarity": "Rare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Hands",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "ConstructionGloves",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Construction_Gloves_01_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "RubberGloves",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Electrician_Glove_01_01",
+											"Rarity": "Rare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Head",
+							"Rarity": "VeryRare",
+							"Children": [
+								{
+									"Name": "Beanies",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Beenie_01",
+											"Rarity": "Common"
+										},
+										{
+											"Name": "RK_Beanie_01",
+											"Rarity": "ExtremelyRare"
+										}
+									]
+								},
+								{
+									"Name": "Caps",
+									"Rarity": "Common",
+									"Children": [
+										{
+											"Name": "Baseball_Cap_13",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Baseball_Cap_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "EarProtection",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Ear_Plugs",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "EarMuffs",
+											"Rarity": "VeryRare",
+											"Children": [
+												{
+													"Name": "Construction_Earmuffs_01",
+													"Rarity": "VeryRare"
+												}
+											]
+										}
+									]
+								},
+								{
+									"Name": "Extreme_Helmet_01",
+									"Rarity": "ExtremelyRare"
+								},
+								{
+									"Name": "Goggles",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Geek_Goggels",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Pilot_Glasses",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Safety_Goggles",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "HardHats",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Working_Helmet_01",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Hats",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Boonie_Hat_01",
+											"Rarity": "Rare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Legs",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "ConstructionPants",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Construction_Pants_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "ShortPants",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Short_Trousers_01_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "WorkPants",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Construction_Pants_01",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Working_pants_01_01",
+											"Rarity": "Rare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Torso",
+							"Rarity": "VeryRare",
+							"Children": [
+								{
+									"Name": "Jackets",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Trucker_Jacket_01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Work_Jacket_01",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Shirts",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Military_Shirt_01",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Military_Shirt_04",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Military_Shirt_05",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Woodcuters_Shirt_01",
+											"Rarity": "Rare"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

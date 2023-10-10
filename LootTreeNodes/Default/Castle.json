@@ -1,0 +1,220 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Rarity": "Uncommon",
+	"Children": [
+		{
+			"Name": "Castle",
+			"Rarity": "Uncommon",
+			"Children": [
+				{
+					"Name": "Ammo",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Arrows",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "BigStash",
+									"Rarity": "Uncommon",
+									"PostSpawnActions": [
+										"SetAmmoAmount_BigStash"
+									],
+									"Children": [
+										{
+											"Name": "Carbon_Arrow",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Carbon_BroadHead_Arrow",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Metal_Arrow",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Metal_BroadHead_Arrow",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "SmallStash",
+									"Rarity": "Uncommon",
+									"PostSpawnActions": [
+										"SetAmmoAmount_SmallStash"
+									],
+									"Children": [
+										{
+											"Name": "Carbon_Arrow",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Carbon_BroadHead_Arrow",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Metal_Arrow",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Metal_BroadHead_Arrow",
+											"Rarity": "Rare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Bolts",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "BigStash",
+									"Rarity": "Uncommon",
+									"PostSpawnActions": [
+										"SetAmmoAmount_BigStash"
+									],
+									"Children": [
+										{
+											"Name": "Ammo_Crossbow_Bolt_Carbon",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Ammo_Crossbow_Bolt_Metal",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "SmallStash",
+									"Rarity": "Uncommon",
+									"PostSpawnActions": [
+										"SetAmmoAmount_SmallStash"
+									],
+									"Children": [
+										{
+											"Name": "Ammo_Crossbow_Bolt_Carbon",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Ammo_Crossbow_Bolt_Metal",
+											"Rarity": "VeryRare"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Clothes",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Feet",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Kilt_01",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "RH_Tights",
+									"Rarity": "VeryRare"
+								}
+							]
+						},
+						{
+							"Name": "Head",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Medieval_Helmet_01",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Shoes",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Kilt_Brogue_Shoe_01",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Kilt_Sock_01",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "RH_Shoe_01",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Torso",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Scottish_Sporran_Bag_01",
+									"Rarity": "ExtremelyRare"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Weapons",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "1H_Medieval_Sword",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "1H_Metal_Sword",
+							"Rarity": "Rare"
+						},
+						{
+							"Name": "Bows",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Recurve_Bow",
+									"Rarity": "Common"
+								},
+								{
+									"Name": "Recurve_Bow_50",
+									"Rarity": "Common"
+								},
+								{
+									"Name": "Recurve_Bow_60",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Recurve_Bow_70",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Recurve_Bow_80",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Recurve_Bow_90",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Recurve_Bow_100",
+									"Rarity": "VeryRare"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

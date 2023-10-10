@@ -1,0 +1,768 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Rarity": "Uncommon",
+	"Children": [
+		{
+			"Name": "Kitchen",
+			"Rarity": "Uncommon",
+			"Children": [
+				{
+					"Name": "Drinks",
+					"Rarity": "ExtremelyRare",
+					"Children": [
+						{
+							"Name": "Alcoholic",
+							"Rarity": "VeryRare",
+							"Children": [
+								{
+									"Name": "Absinthe",
+									"Rarity": "ExtremelyRare"
+								},
+								{
+									"Name": "Beers",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Beer",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Coctails",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Scum_Sunrise",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Hip_Flask",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Isopropyl_alcohol",
+									"Rarity": "ExtremelyRare"
+								},
+								{
+									"Name": "Kicmovaca",
+									"Rarity": "ExtremelyRare"
+								},
+								{
+									"Name": "Tequila",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Vodka",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Whiskey",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Wine",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "NonAlcoholic",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Cream",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Juice",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "GlassBottle01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Milk",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Soda",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Can01",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "PETBottle01",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Tea_Pack",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Water_05l",
+									"Rarity": "Uncommon"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Food",
+					"Rarity": "VeryRare",
+					"Children": [
+						{
+							"Name": "Animal",
+							"Rarity": "ExtremelyRare",
+							"Children": [
+								{
+									"Name": "Egg",
+									"Rarity": "ExtremelyRare"
+								}
+							]
+						},
+						{
+							"Name": "Cans",
+							"Rarity": "VeryRare",
+							"Children": [
+								{
+									"Name": "BakedBeans",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "BeefRavioli",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "BeefStew",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "BlackOlives",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Canned_Corn",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Canned_Tuna",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "CannedFruitCoctail",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "CannedGoulash",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "CannedPeach",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "CannedPear",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "CannedPeas",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "CannedSardine",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "CannedSeafoodMix",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "CannedSpaghetti",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Chow_Mein",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "GuavaHalves",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "MRE_Cheeseburger",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Spon",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "TomatoPelate",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "TomatoSouce",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "Condiments",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Cocoa_Powder",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Ketchup",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Mayonnaise",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Mustard",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Raisins",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "CookingIngredients",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "BakingSoda",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "BlackPepper",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Coffee",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Icing_Sugar",
+											"Rarity": "Uncommon"
+										}
+									]
+								},
+								{
+									"Name": "Rice",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "SeaSalt_01",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "SeaSalt_02",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "SoySauce",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "SpicesMix_01",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Sugar",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "VegetableOil",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Vinegar",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "WhiteFlour",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Yeast",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "Dairy",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Butter",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Cheese",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "CheesePacked",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Richards_Cheese",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "Fruit",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Apple",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Apple_2",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Banana",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Blueberries",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "CantaloupeMelon",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Coconut",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "GrapeFruit",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Kiwi",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Lemon",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Lime",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Mango",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Olives",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Orange",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Peach",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Pear",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Pineapple",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Tangerine",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Watermelon",
+									"Rarity": "VeryRare"
+								}
+							]
+						},
+						{
+							"Name": "Snacks",
+							"Rarity": "VeryRare",
+							"Children": [
+								{
+									"Name": "Candy",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Candy_Bob",
+											"Rarity": "ExtremelyRare"
+										}
+									]
+								},
+								{
+									"Name": "Cereal",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Cereal_BunnyStars",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Corn_flakes",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Instant_OatMeal",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Chips",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Chips",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "MeatSnack_01",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "Chocolate",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "ChocolateCandy_01",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "ChocolateCandy_08",
+											"Rarity": "Rare"
+										}
+									]
+								},
+								{
+									"Name": "NutsAndBerries",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Barberry",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Blackberry",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Blueberries",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Currant",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Grapes_Raw",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Hazelnuts",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Mulberry",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Oak_Nuts",
+											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Walnut",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Wild_Strawberry",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Pastries",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Toaster_Pastries",
+											"Rarity": "Rare"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Name": "Veggies",
+							"Rarity": "Abundant",
+							"Children": [
+								{
+									"Name": "Beet",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Bell_Pepper",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Broccoli",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Cabbage",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Carrot",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Cauliflower",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Celery",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Chilipeper",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Corn",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Cucumber",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Garlic",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Lettuce",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Onion",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Parsley",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Potato",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Pumpkin",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Spinach",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "SugarBeet",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Tomato",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Zucchini",
+									"Rarity": "VeryRare"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Items",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Blades",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "1H_Bushman",
+									"Rarity": "ExtremelyRare"
+								},
+								{
+									"Name": "1H_Cleaver",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "1H_KitchenKnife",
+									"Rarity": "Abundant"
+								}
+							]
+						},
+						{
+							"Name": "Dish",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Glass",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Kitchen_Board_01",
+									"Rarity": "Common"
+								},
+								{
+									"Name": "Pan",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Pot1",
+									"Rarity": "Uncommon"
+								}
+							]
+						},
+						{
+							"Name": "Misc",
+							"Rarity": "Rare",
+							"Children": [
+								{
+									"Name": "Bobby_Pin_Pacage",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Book_Cooking_BBQ",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Cash",
+									"Rarity": "ExtremelyRare"
+								},
+								{
+									"Name": "Cigarettes",
+									"Rarity": "Rare",
+									"Children": [
+										{
+											"Name": "Cigarettes",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Cuban_Cigar",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Diary",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Duct_Tape",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Fabric",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "EmptyBag",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Rag_Stripes",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Rags",
+											"Rarity": "Common"
+										}
+									]
+								},
+								{
+									"Name": "Lighter",
+									"Rarity": "Abundant"
+								},
+								{
+									"Name": "Magnifying_Glass1",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Matches",
+									"Rarity": "Abundant"
+								},
+								{
+									"Name": "Needle",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Paper",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Pen",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Rubber_Band",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Screwdrivers",
+									"Rarity": "VeryRare",
+									"Children": [
+										{
+											"Name": "Screwdriver",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Screwdriver_Small",
+											"Rarity": "VeryRare"
+										}
+									]
+								},
+								{
+									"Name": "Soap",
+									"Rarity": "Uncommon"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

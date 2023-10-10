@@ -1,0 +1,208 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Rarity": "Uncommon",
+	"Children": [
+		{
+			"Name": "Sports",
+			"Rarity": "Uncommon",
+			"Children": [
+				{
+					"Name": "Clothes",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Bedroll",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "Gloves",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "MMA_Glove_01",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Jerseys",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Jersey_01",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Shoes",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "HighTop_Shoes",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Sneakers_02_01",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "ShortPants",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Short_Trousers_01_01",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Shorts_Pants_01_01",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Tracksuit_Pants_01_01",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Sweaters",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Sweater_01",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Tracksuit_Top_01",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Underwear",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "F_Undershirt_Bra_01",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Underpants_01",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Undershirt_01",
+									"Rarity": "Rare"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "FoodDrink",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Drink",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Can01",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Energy_Drink_Red_Ghoul",
+									"Rarity": "ExtremelyRare"
+								},
+								{
+									"Name": "Water_05l",
+									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Food",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Barberry",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Blackberry",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Blueberries",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "ChocolateCandy_01",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "ChocolateCandy_08",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Hazelnuts",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "MeatSnack_01",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Mulberry",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Oak_Nuts",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Walnut",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Wild_Strawberry",
+									"Rarity": "Uncommon"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Name": "Misc",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "Safety_pin",
+							"Rarity": "Rare"
+						}
+					]
+				},
+				{
+					"Name": "Tools",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "2H_Baseball_Bat",
+							"Rarity": "Uncommon"
+						},
+						{
+							"Name": "2H_Baseball_Bat_Blaze",
+							"Rarity": "VeryRare"
+						},
+						{
+							"Name": "2H_Metal_Baseball_Bat",
+							"Rarity": "Rare"
+						}
+					]
+				}
+			]
+		}
+	]
+}
