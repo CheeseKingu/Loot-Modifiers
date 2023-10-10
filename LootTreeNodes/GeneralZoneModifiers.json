@@ -1,0 +1,9 @@
+{
+	"Modifiers": [
+		{
+			"SpawnerProbabilityMultiplier": 1.0f,
+			"ExamineSpawnerProbabilityMultiplier": 1.0f,
+			"ExamineSpawnerQuantityMultiplier": 1.0f
+		}
+	]
+}
