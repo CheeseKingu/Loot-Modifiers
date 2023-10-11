@@ -1,0 +1,37 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Children": [
+		{
+			"Name": "Trash",
+			"ChildrenMergeMode": "Replace",
+			"Children": [
+				{
+					"Name": "Drinks",
+					"Rarity": "Abundant",
+					"Children": [
+						{
+							"Name": "Water_05l",
+							"Rarity": "Abundant"
+						},
+						{
+							"Name": "Beer",
+							"Rarity": "Rare"
+						}
+					]
+				},
+				{
+					"Name": "Food",
+					"Rarity": "Common",
+					"Children": [
+						{
+							"Name": "Apple"
+						},
+						{
+							"Name": "Banana"
+						}
+					]
+				}
+			]
+		}
+	]
+}
