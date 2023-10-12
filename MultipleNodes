@@ -1,0 +1,26 @@
+"Nodes": [
+    {
+        "Rarity": "Uncommon",
+        "Ids": [ "ItemLootTreeNodes.Workshop.Tools" ]
+    },
+    {
+        "Rarity": "Common",
+        "Ids": [ "ItemLootTreeNodes.Workshop.WorkClothes.Feet" ]
+    },
+    {
+        "Rarity": "Rare",
+        "Ids": [ "ItemLootTreeNodes.Workshop.WorkClothes.Torso" ]
+    },
+    {
+        "Rarity": "VeryRare",
+        "Ids": [ "ItemLootTreeNodes.Workshop.WorkClothes.Legs" ]
+    },
+    {
+        "Rarity": "Uncommon",
+        "Ids": [ "ItemLootTreeNodes.Workshop.Crafting" ]
+    },
+    {
+        "Rarity": "Uncommon",
+        "Ids": [ "ItemLootTreeNodes.Workshop.LightsFire" ]
+    }
+]
