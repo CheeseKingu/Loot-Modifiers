@@ -23,4 +23,14 @@
         "Rarity": "Uncommon",
         "Ids": [ "ItemLootTreeNodes.Workshop.LightsFire" ]
     }
-]
+],
+	"Probability": 25,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 15,
+	"RandomDamage": 40,
+	"InitialUsage": 15,
+	"RandomUsage": 40
+}
